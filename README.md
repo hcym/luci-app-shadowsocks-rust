@@ -7,7 +7,7 @@ OpenWrt LuCI for Shadowsocks-Rust
 ---
 
 本软件包是 forked from honwen [shadowsocks-rust][openwrt-shadowsocks] 的 LuCI 控制界面,
-方便用户控制和使用「透明代理」「SOCKS5 代理」「端口转发」功能.  
+方便用户控制和使用「透明代理」「SOCKS5 代理」 「端口转发」功能.  
 
 软件包文件结构:
 ```
